@@ -79,4 +79,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/39e8d2be-a350-4fda-a409-ecc7c974fd7d)
 
 **RESULTS**
+
 Thus the SR flipflop is designed and verified using Quartus software.
